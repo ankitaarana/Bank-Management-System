@@ -42,3 +42,7 @@ All data is stored locally using file handling (no database required), making it
 ## 📁 Project Structure
 
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/558adcbd-7e11-4db3-82b7-b2082383ad01" />
+
+
+
